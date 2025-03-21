@@ -1,0 +1,979 @@
+<site sitename="New Site" version="3.0"><css><a cssname="style1"><link fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><hover fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><active fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><visited fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/></a></css><page id="p44142303" name="index" pageindex="0" pp="0" cp="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgoutput="" bgsoutput=""><Component type="9" id="hr1" zorder="1" filename="hr46861192" hrsize="5" width="820" height="20" left="19" top="197" hrcolor="#B0B0B0" noshade="" usimage="0" src="" previewfile="" group="0" groupname=""/><Component id="text1" zorder="2" type="2" left="43" top="279" width="748" height="337" text="" filename="text47247438" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Welcome to&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" style="font-size:24px;"&gt;&lt;B&gt;RAJAMRUTH &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Yog Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;....................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;In India, the RajAmruth Yog Olympaid is the First Olympaid.This event aims to:?&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;Develop an understanding of yogic practices and &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;encourage their application in daily life.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;Promote healthy habits and lifestyles among &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;students.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;cc&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Welcome to&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" class="ws18"&gt;&lt;B&gt;RAJAMRUTH &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;Yog Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" class="ws18"&gt;&lt;B&gt;....................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;In India, the RajAmruth Yog Olympaid is the First Olympaid.This event aims to:?&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;Develop an understanding of yogic practices and &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;encourage their application in daily life.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;Promote healthy habits and lifestyles among &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;students.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;cc&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrfBAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCCAVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDPMzAAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVT
+dHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgT/mQAA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AhIFU3R5bGULBmZzQm9sZAAFQ29sb3IEM5lmAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQISBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBDOZZgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYG
+VGFob21hBFNpemUCEgVDb2xvcgQzmWYAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQpsAAAADgEJU3R5
+bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAw
+IDQNCnJ2cw0KAgAAAA4AMTIgMSAwIDAgMCAwDQpXZWxjb21lIHRvDQoxMCAxIC0xIDEgMCAwDQog
+DQoxNSAxIC0xIDEgMCAwDQpSQUpBTVJVVEggDQoxMyAxIC0xIDEgMCAwDQpZb2cgT2x5bXBhaWQN
+CjEzIDEgMCAwIDAgMA0KDQoxMSAxIDAgMCAwIDANCi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4NCjE2IDEgMCAwIDAgMA0KSW4gSW5kaWEsIHRoZSBSYWpBbXJ1dGgg
+WW9nIE9seW1wYWlkIGlzIHRoZSBGaXJzdCBPbHltcGFpZC5UaGlzIGV2ZW50IGFpbXMgdG86Pw0K
+MTQgNiAwIDAgMCAwDQoNCkRldmVsb3AgYW4gdW5kZXJzdGFuZGluZyBvZiB5b2dpYyBwcmFjdGlj
+ZXMgYW5kIA0KZW5jb3VyYWdlIHRoZWlyIGFwcGxpY2F0aW9uIGluIGRhaWx5IGxpZmUuDQoNClBy
+b21vdGUgaGVhbHRoeSBoYWJpdHMgYW5kIGxpZmVzdHlsZXMgYW1vbmcgDQpzdHVkZW50cy4NCjE2
+IDEgMCAwIDAgMA0KDQo3IDIgMCAwIDAgMA0KY2MNCg0KOCAxIDAgMCAwIDANCg0KOSAxIDAgMCAw
+IDANCg0K
+</rvf></Component><Component type="2" id="text8" zorder="3" filename="text56299884" left="20" top="782" width="424" height="152" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" rvf="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Tahoma" style="font-size:11px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Tahoma" class="ws8"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBJnMAAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdP
+cHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0K
+DQo=
+</rvf></Component><Component type="9" id="hr3" zorder="4" filename="hr170531187" hrsize="5" width="822" height="20" left="19" top="1435" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component id="text4" zorder="5" type="2" left="40" top="625" width="752" height="302" text="" filename="text3266718" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Objectives&amp;nbsp; of Yoga&amp;nbsp; Olympiads:&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;......................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;The Rajamruth National Yoga Olympiad is a unique competition that focuses on the intellectual and philosophical aspects of yoga, rather than its physical practice. It aims to deepen students' understanding of Bhagavad Gita, Granthas, Upanishads, Darshan (Indian philosophy), and Ashtanga Yoga, fostering spiritual wisdom and critical thinking.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;Objectives&amp;nbsp; of Yoga&amp;nbsp; Olympiads:&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" class="ws18"&gt;&lt;B&gt;......................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;The Rajamruth National Yoga Olympiad is a unique competition that focuses on the intellectual and philosophical aspects of yoga, rather than its physical practice. It aims to deepen students' understanding of Bhagavad Gita, Granthas, Upanishads, Darshan (Indian philosophy), and Ashtanga Yoga, fostering spiritual wisdom and critical thinking.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrnAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCBgVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXpl
+AggFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgQzmWYAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAhIFQ29sb3IE
+/5kAAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0
+eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADEyIDEg
+MCAwIDAgMA0KT2JqZWN0aXZlcyAgb2YgWW9nYSAgT2x5bXBpYWRzOg0KMTEgMSAwIDAgMCAwDQou
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4NCjEzIDIgMCAwIDAg
+MA0KVGhlIFJhamFtcnV0aCBOYXRpb25hbCBZb2dhIE9seW1waWFkIGlzIGEgdW5pcXVlIGNvbXBl
+dGl0aW9uIHRoYXQgZm9jdXNlcyBvbiB0aGUgaW50ZWxsZWN0dWFsIGFuZCBwaGlsb3NvcGhpY2Fs
+IGFzcGVjdHMgb2YgeW9nYSwgcmF0aGVyIHRoYW4gaXRzIHBoeXNpY2FsIHByYWN0aWNlLiBJdCBh
+aW1zIHRvIGRlZXBlbiBzdHVkZW50cycgdW5kZXJzdGFuZGluZyBvZiBCaGFnYXZhZCBHaXRhLCBH
+cmFudGhhcywgVXBhbmlzaGFkcywgRGFyc2hhbiAoSW5kaWFuIHBoaWxvc29waHkpLCBhbmQgQXNo
+dGFuZ2EgWW9nYSwgZm9zdGVyaW5nIHNwaXJpdHVhbCB3aXNkb20gYW5kIGNyaXRpY2FsIHRoaW5r
+aW5nLg0KDQo4IDEgMCAwIDAgMA0KDQo3IDIgMCAwIDAgMA0KDQoNCjkgMSAwIDAgMCAwDQoNCjEw
+IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="4" id="shape2" zorder="0" filename="shape46961066" left="21" top="239" width="819" height="1189" bgcolor="#FFFFFF" fillstyle="0" bordercolor="#DCDCDC" borderstyle="1" borderwidth="4" spborder="1" group="1" groupname="gp50896905" previewfile="" exportfilename="images/shape46961066.gif" fp="0"/><Component type="3" id="image4" zorder="6" filename="image7284046" left="215" top="866" width="379" height="551" originwidth="1100" originheight="1600" src="C:\Users\smart\Desktop\Raj Amruth Website\images\cert.jpg" previewfile="C:\Users\smart\Desktop\Raj Amruth Website\images\cert.jpg" thumbname="thumb169815296" resamplename="img169815296" exportfilename="images/asana.jpg" fp="0"/><Component type="9" id="hr2" zorder="7" filename="hr7318875" hrsize="5" width="823" height="20" left="18" top="839" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component type="4" id="shape1" zorder="8" filename="shape457540734" left="18" top="145" width="822" height="60" bgcolor="#339966" fillstyle="0" previewfile="" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" exportfilename="images/shape46813694.gif"/><Component id="text2" zorder="9" type="2" left="56" top="160" width="762" height="44" text="" html="" exporthtml="" rvf="" filename="text457540750" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoABAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVl
+BEp1bXAJC05leHRTdHlsZU5vAggAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcG
+Y2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgcAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA5IDEgMCAwIDAgInVybD1wYWdlOi8vcDQ0MTQyMzAzLGxpbmtz
+dHlsZT1zdHlsZTEiDQpIT01FDQoxMiAxIC0xIDEgMCAwDQogICAgICANCjExIDEgLTEgMSAwIDAN
+CnwNCjEyIDEgLTEgMSAwIDANCiAgIA0KOSAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzM4ODI2NSxs
+aW5rc3R5bGU9c3R5bGUxIg0KU0VSVklDRVMNCjEyIDEgLTEgMSAwIDANCiAgICAgDQoxMSAxIC0x
+IDEgMCAwDQp8DQoxMiAxIC0xIDEgMCAwDQogICAgICANCjkgMSAtMSAxIDAgInVybD1wYWdlOi8v
+cDMzOTA3OTYsbGlua3N0eWxlPXN0eWxlMSINCkFCT1VUIFVTDQoxMiAxIC0xIDEgMCAwDQogICAg
+IA0KMTEgMSAtMSAxIDAgMA0KfA0KMTIgMSAtMSAxIDAgMA0KICANCjExIDEgLTEgMSAwIDANCiAg
+ICANCjEwIDEgLTEgMSAwICJ1cmw9cGFnZTovL3AzMzkzNTkzLGxpbmtzdHlsZT1zdHlsZTEiDQpD
+T05UQUNUIFVTDQo3IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="2" id="text3" zorder="10" filename="text457540718" left="19" top="57" width="824" height="87" html="" rvf="" exporthtml="" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" style="font-size:48px;"&gt;&lt;B&gt;RAJAMRUTH YOG OLYMPAID&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" class="ws36"&gt;&lt;B&gt;RAJAMRUTH YOG OLYMPAID&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoWAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IEM5lmAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADcgMSAwIDAgMCAwDQpS
+QUpBTVJVVEggWU9HIE9MWU1QQUlEDQo=
+</rvf></Component><Component type="24" id="gallery1" zorder="11" filename="gallery1566843718" files="&quot;C:\Users\smart\Desktop\Raj Amruth Website\images\photo1.jpg&quot;" titles="photo1.jpg" imgwidths="1020" imgheights="1280" imgtarget="0" targetframe="FrameName" thumbwidth="200" thumbheight="200" thumb="0" prefix="tn_" maintain="1" space="6" padding="3" shadow="1" border="0" borderwidth="0" bordercolor="" title="0" titlefont="Arial" titlesize="10" titlestyle="0" titlecolor="" width="250" height="219" left="589" top="400" previewfile="C:\Users\smart\Desktop\Raj Amruth Website\images\photo1.jpg"/></body></page>
+	<components/><page id="p3388265" name="services" pageindex="1" pp="0" cp="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgoutput="" bgsoutput=""><Component type="9" id="hr1" zorder="1" filename="hr3388500" hrsize="5" width="820" height="20" left="19" top="197" hrcolor="#B0B0B0" noshade="" usimage="0" src="" previewfile="" group="0" groupname=""/><Component type="4" id="shape2" zorder="0" filename="shape3388484" left="22" top="229" width="819" height="1200" bgcolor="#FFFFFF" fillstyle="0" bordercolor="#DCDCDC" borderstyle="1" borderwidth="1" spborder="1" group="1" groupname="gp50896905" previewfile="" exportfilename="images/shape3388484.gif" fp="0"/><Component type="9" id="hr7" zorder="2" filename="hr3388468" hrsize="5" width="823" height="20" left="21" top="975" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component id="text1" zorder="3" type="2" left="34" top="239" width="765" height="748" text="" filename="text3388453" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;We Take Both Online and Offline Classes,We Take Regular And Competition Practice.Till We Have Won 50+ Competitions.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;The competition evaluates participants on various yogic practices, including:-&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;1)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Yog History&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;2)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Asthang Yoga &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;3)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Hatha Yoga &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;4)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Bhagwad Gita&lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;5)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Surya Namaskar&lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;6)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Shlok and Upanishad&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;7)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Omkar Importance&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;8)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Meditation&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;9)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Satvik Aahar&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;10)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Darshan/Indian Philosophy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;We Take Both Online and Offline Classes,We Take Regular And Competition Practice.Till We Have Won 50+ Competitions.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;The competition evaluates participants on various yogic practices, including:-&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" class="ws18"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;1)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Yog History&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;2)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Asthang Yoga &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;3)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Hatha Yoga &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;4)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Bhagwad Gita&lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;5)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Surya Namaskar&lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;6)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Shlok and Upanishad&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;7)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Omkar Importance&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;8)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Meditation&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;9)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Satvik Aahar&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;10)&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Darshan/Indian Philosophy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo8BAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCBgVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXpl
+AggFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgT/mQAAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAhIFU3R5bGUL
+BmZzQm9sZAAFQ29sb3IEM5lmAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBgZUYWhvbWEEU2l6ZQISBUNvbG9yBP+ZAAAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwA
+AAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxMyAyIDAgMCAwIDANCldlIFRha2UgQm90aCBPbmxpbmUg
+YW5kIE9mZmxpbmUgQ2xhc3NlcyxXZSBUYWtlIFJlZ3VsYXIgQW5kIENvbXBldGl0aW9uIFByYWN0
+aWNlLlRpbGwgV2UgSGF2ZSBXb24gNTArIENvbXBldGl0aW9ucy4NClRoZSBjb21wZXRpdGlvbiBl
+dmFsdWF0ZXMgcGFydGljaXBhbnRzIG9uIHZhcmlvdXMgeW9naWMgcHJhY3RpY2VzLCBpbmNsdWRp
+bmc6LQ0KMTEgMSAwIDAgMCAwDQouLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLg0KMTMgMSAwIDAgMCAwDQoxKQ0KMTIgMSAtMSAxIDAgMA0KWW9nIEhpc3Rvcnkg
+ICAgICANCjEzIDEgLTEgMSAwIDANCiAgICAgIA0KMTMgMiAwIDAgMCAwDQoNCjIpDQoxMiAxIC0x
+IDEgMCAwDQpBc3RoYW5nIFlvZ2EgDQoxMyAxIC0xIDEgMCAwDQogDQoxMyAyIDAgMCAwIDANCg0K
+MykNCjEyIDEgLTEgMSAwIDANCkhhdGhhIFlvZ2EgDQoxMyAxIC0xIDEgMCAwDQogICAgICAgDQox
+MyAyIDAgMCAwIDANCg0KNCkNCjEyIDEgLTEgMSAwIDANCkJoYWd3YWQgR2l0YQ0KMTMgMSAtMSAx
+IDAgMA0KICAgICAgDQoxMyAyIDAgMCAwIDANCg0KNSkNCjEyIDEgLTEgMSAwIDANClN1cnlhIE5h
+bWFza2FyDQoxMyAxIC0xIDEgMCAwDQogICAgDQoxMyAyIDAgMCAwIDANCg0KNikNCjEyIDEgLTEg
+MSAwIDANClNobG9rIGFuZCBVcGFuaXNoYWQNCjEzIDIgMCAwIDAgMA0KDQo3KQ0KMTIgMSAtMSAx
+IDAgMA0KT21rYXIgSW1wb3J0YW5jZQ0KMTMgMiAwIDAgMCAwDQoNCjgpDQoxMiAxIC0xIDEgMCAw
+DQpNZWRpdGF0aW9uDQoxMyAyIDAgMCAwIDANCg0KOSkNCjEyIDEgLTEgMSAwIDANClNhdHZpayBB
+YWhhcg0KMTMgMiAwIDAgMCAwDQoNCjEwKQ0KMTIgMSAtMSAxIDAgMA0KRGFyc2hhbi9JbmRpYW4g
+UGhpbG9zb3BoeQ0KMTMgMiAwIDAgMCAwDQoNCg0KMTIgMiAwIDAgMCAwDQoNCg0KMTQgMSAwIDAg
+MCAwDQoNCjggMSAwIDAgMCAwDQoNCjcgMiAwIDAgMCAwDQoNCg0KOSAxIDAgMCAwIDANCg0KMTAg
+MSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="text2" zorder="4" type="2" left="40" top="150" width="762" height="44" text="" html="" exporthtml="" rvf="" filename="text3388437" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoABAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVl
+BEp1bXAJC05leHRTdHlsZU5vAggAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcG
+Y2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgcAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA5IDEgMCAwIDAgInVybD1wYWdlOi8vcDQ0MTQyMzAzLGxpbmtz
+dHlsZT1zdHlsZTEiDQpIT01FDQoxMiAxIC0xIDEgMCAwDQogICAgICANCjExIDEgLTEgMSAwIDAN
+CnwNCjEyIDEgLTEgMSAwIDANCiAgIA0KOSAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzM4ODI2NSxs
+aW5rc3R5bGU9c3R5bGUxIg0KU0VSVklDRVMNCjEyIDEgLTEgMSAwIDANCiAgICAgDQoxMSAxIC0x
+IDEgMCAwDQp8DQoxMiAxIC0xIDEgMCAwDQogICAgICANCjkgMSAtMSAxIDAgInVybD1wYWdlOi8v
+cDMzOTA3OTYsbGlua3N0eWxlPXN0eWxlMSINCkFCT1VUIFVTDQoxMiAxIC0xIDEgMCAwDQogICAg
+IA0KMTEgMSAtMSAxIDAgMA0KfA0KMTIgMSAtMSAxIDAgMA0KICANCjExIDEgLTEgMSAwIDANCiAg
+ICANCjEwIDEgLTEgMSAwICJ1cmw9cGFnZTovL3AzMzkzNTkzLGxpbmtzdHlsZT1zdHlsZTEiDQpD
+T05UQUNUIFVTDQo3IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="2" id="text8" zorder="5" filename="text3388390" left="20" top="782" width="424" height="152" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" rvf="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Tahoma" style="font-size:11px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Tahoma" class="ws8"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBJnMAAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdP
+cHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0K
+DQo=
+</rvf></Component><Component type="9" id="hr3" zorder="6" filename="hr3388375" hrsize="5" width="822" height="20" left="18" top="1433" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component id="text4" zorder="7" type="2" left="36" top="990" width="791" height="449" text="" filename="text3388328" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpHAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCBgVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXpl
+AggFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgT/mQAAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9Q
+YXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxp
+Z25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMTEgMyAwIDAgMCAwDQogDQoNCiANCjggMSAwIDAgMCAwDQoNCjcgMiAwIDAgMCAwDQoN
+Cg0KOSAxIDAgMCAwIDANCg0KMTAgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component type="4" id="shape1" zorder="8" filename="shape456697718" left="17" top="137" width="824" height="60" bgcolor="#339966" fillstyle="0" previewfile="" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" exportfilename="images/shape46813694.gif" fp="0"/><Component type="2" id="text3" zorder="9" filename="text456697703" left="17" top="49" width="887" height="87" html="" rvf="" exporthtml="" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" style="font-size:48px;"&gt;&lt;B&gt;RAJAMRUTH YOG OLYMPAID&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" class="ws36"&gt;&lt;B&gt;RAJAMRUTH YOG OLYMPAID&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoWAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IEM5lmAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADcgMSAwIDAgMCAwDQpS
+QUpBTVJVVEggWU9HIE9MWU1QQUlEDQo=
+</rvf></Component><Component id="text5" zorder="10" type="2" left="46" top="150" width="762" height="44" text="" html="" exporthtml="" rvf="" filename="text456732156" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt; &lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt; &lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp4BAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVl
+BEp1bXAJC05leHRTdHlsZU5vAggAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcG
+Y2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgcAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5l
+AAVDb2xvcgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgwAAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA5IDEgMCAwIDAgInVybD1wYWdlOi8vcDQ0MTQyMzAz
+LGxpbmtzdHlsZT1zdHlsZTEiDQpIT01FDQoxMyAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wNDQxNDIz
+MDMsbGlua3N0eWxlPXN0eWxlMSINCiANCjEyIDEgLTEgMSAwIDANCiAgICAgDQoxMSAxIC0xIDEg
+MCAwDQp8DQoxMiAxIC0xIDEgMCAwDQogICANCjkgMSAtMSAxIDAgInVybD1wYWdlOi8vcDMzODgy
+NjUsbGlua3N0eWxlPXN0eWxlMSINClNFUlZJQ0VTDQoxMiAxIC0xIDEgMCAwDQogICAgIA0KMTEg
+MSAtMSAxIDAgMA0KfA0KMTIgMSAtMSAxIDAgMA0KICAgICAgDQo5IDEgLTEgMSAwICJ1cmw9cGFn
+ZTovL3AzMzkwNzk2LGxpbmtzdHlsZT1zdHlsZTEiDQpBQk9VVCBVUw0KMTIgMSAtMSAxIDAgMA0K
+ICAgICANCjExIDEgLTEgMSAwIDANCnwNCjEyIDEgLTEgMSAwIDANCiAgDQoxMSAxIC0xIDEgMCAw
+DQogICAgDQoxMCAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzM5MzU5MyxsaW5rc3R5bGU9c3R5bGUx
+Ig0KQ09OVEFDVCBVUw0KNyAxIDAgMCAwIDANCg0K
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image1569310593" width="317" height="427" originwidth="1020" originheight="1375" src="C:\Users\smart\OneDrive\Documents\Web Page Maker\Import\paste.jpg" previewfile="C:\Users\smart\OneDrive\Documents\Web Page Maker\Import\paste.jpg" left="261" top="997"/></body></page>
+	<page id="p3390796" name="aboutus" pageindex="2" pp="0" cp="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgoutput="" bgsoutput=""><Component type="9" id="hr1" zorder="1" filename="hr3391031" hrsize="5" width="820" height="20" left="19" top="197" hrcolor="#B0B0B0" noshade="" usimage="0" src="" previewfile="" group="0" groupname=""/><Component type="4" id="shape2" zorder="0" filename="shape3391015" left="21" top="239" width="819" height="1189" bgcolor="#FFFFFF" fillstyle="0" bordercolor="#DCDCDC" borderstyle="1" borderwidth="1" spborder="1" group="1" groupname="gp50896905" previewfile="" exportfilename="images/shape3391015.gif" fp="0"/><Component type="9" id="hr7" zorder="2" filename="hr3391000" hrsize="5" width="823" height="20" left="18" top="1094" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text8" zorder="3" filename="text3390921" left="20" top="782" width="424" height="152" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" rvf="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Tahoma" style="font-size:11px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#99CC00" face="Tahoma" class="ws8"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBJnMAAAAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdP
+cHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0K
+DQo=
+</rvf></Component><Component type="9" id="hr3" zorder="4" filename="hr3390906" hrsize="5" width="822" height="20" left="18" top="1433" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component id="text3" zorder="5" type="2" left="60" top="1120" width="723" height="332" text="" filename="text3390890" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Benefits of Yoga&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;The Main motto of the Rajamruth National Yoga Olympiad is to inspire people to embrace yoga and revive the ancient skills of our heritage. This competition encourages us to reconnect with our history, recognizing yoga as part of our sanskar and motherland, and move towards physical and mental prosperity.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Benefits of Yoga&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;The Main motto of the Rajamruth National Yoga Olympiad is to inspire people to embrace yoga and revive the ancient skills of our heritage. This competition encourages us to reconnect with our history, recognizing yoga as part of our sanskar and motherland, and move towards physical and mental prosperity.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpBAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCCAVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVD
+b2xvcgQzmWYAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3Jh
+cGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50
+BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4A
+MTAgMiAwIDAgMCAwDQpCZW5lZml0cyBvZiBZb2dhDQoNCjExIDEgMCAwIDAgMA0KVGhlIE1haW4g
+bW90dG8gb2YgdGhlIFJhamFtcnV0aCBOYXRpb25hbCBZb2dhIE9seW1waWFkIGlzIHRvIGluc3Bp
+cmUgcGVvcGxlIHRvIGVtYnJhY2UgeW9nYSBhbmQgcmV2aXZlIHRoZSBhbmNpZW50IHNraWxscyBv
+ZiBvdXIgaGVyaXRhZ2UuIFRoaXMgY29tcGV0aXRpb24gZW5jb3VyYWdlcyB1cyB0byByZWNvbm5l
+Y3Qgd2l0aCBvdXIgaGlzdG9yeSwgcmVjb2duaXppbmcgeW9nYSBhcyBwYXJ0IG9mIG91ciBzYW5z
+a2FyIGFuZCBtb3RoZXJsYW5kLCBhbmQgbW92ZSB0b3dhcmRzIHBoeXNpY2FsIGFuZCBtZW50YWwg
+cHJvc3Blcml0eS4NCjcgMiAwIDAgMCAwDQoNCg0KOCAxIDAgMCAwIDANCg0KOSAxIDAgMCAwIDAN
+Cg0K
+</rvf></Component><Component id="text1" zorder="6" type="2" left="58" top="262" width="739" height="767" text="" filename="text7076828" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="16777215" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;ABOUT US -&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Rajamruth Yog Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Yoga Olympaids&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Author's name - &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Priyanka Biradar&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Courses done&amp;nbsp; - &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;1]&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;YCB Level 3 &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#3366FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; 2]&lt;/B&gt;&lt;/font&gt;&lt;font color="#3366FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Diploma Yoga Teacher&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#0000FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3] &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Kids Yog&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;4]&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Yoga Prabhod&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;ABOUT US -&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;Rajamruth Yog Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" class="ws18"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Yoga Olympaids&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Author's name - &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" class="ws18"&gt;&lt;B&gt;Priyanka Biradar&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Courses done&amp;nbsp; - &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" class="ws18"&gt;&lt;B&gt;1]&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;YCB Level 3 &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#3366FF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; 2]&lt;/B&gt;&lt;/font&gt;&lt;font color="#3366FF" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;Diploma Yoga Teacher&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#0000FF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3] &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;Kids Yog&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#0000FF" face="Tahoma" class="ws18"&gt;&lt;B&gt;4]&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;Yoga Prabhod&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpBBQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCBgVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXpl
+AggFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgQzzMwAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAhIFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhj
+bFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhv
+bWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgQzZv8AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQRTaXplAhIFU3R5bGULBmZzQm9sZAAFQ29sb3IEM5lmAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9y
+BwZjbEJsdWUAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFw
+aCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQH
+CXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAx
+NCAxIDAgMCAwIDANCkFCT1VUIFVTIC0NCjExIDEgLTEgMSAwIDANCiANCjE2IDEgLTEgMSAwIDAN
+ClJhamFtcnV0aCBZb2cgT2x5bXBhaWQNCjEzIDEgMCAwIDAgMA0KLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4NCjEyIDEgMCAwIDAgMA0KDQoxNCAzIDAgMCAw
+IDANCllvZ2EgT2x5bXBhaWRzDQoNCkF1dGhvcidzIG5hbWUgLSANCjE3IDEgLTEgMSAwIDANClBy
+aXlhbmthIEJpcmFkYXINCjE0IDIgMCAwIDAgMA0KDQpDb3Vyc2VzIGRvbmUgIC0gDQoxNyAxIC0x
+IDEgMCAwDQoxXQ0KMTQgMSAtMSAxIDAgMA0KIA0KMTYgMSAtMSAxIDAgMA0KWUNCIExldmVsIDMg
+DQoxNCAxIDAgMCAwIDANCiAgICAgICAgICAgICAgICAgICAgICAgDQoxNSAxIDAgMCAwIDANCiAg
+ICAgICAgICAgICAgICAgICAgICAgICANCjE3IDEgLTEgMSAwIDANCiAgMl0NCjE1IDEgLTEgMSAw
+IDANCiANCjE2IDEgLTEgMSAwIDANCkRpcGxvbWEgWW9nYSBUZWFjaGVyDQoxNCAyIDAgMCAwIDAN
+CiANCg0KMTcgMSAwIDAgMCAwDQogICAgICAgICAgICAgICAgICAgICAgICAgICAzXSANCjE2IDEg
+LTEgMSAwIDANCktpZHMgWW9nDQoxNCAyIDAgMCAwIDANCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICANCiAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KMTcgMSAtMSAxIDAgMA0KNF0NCjE0
+IDEgLTEgMSAwIDANCiANCjE2IDEgLTEgMSAwIDANCllvZ2EgUHJhYmhvZA0KMTYgMSAwIDAgMCAw
+DQoNCjE0IDIgMCAwIDAgMA0KDQoNCjEyIDEgMCAwIDAgMA0KDQo4IDEgMCAwIDAgMA0KDQo3IDIg
+MCAwIDAgMA0KDQoNCjkgMSAwIDAgMCAwDQoNCjEwIDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="4" id="shape1" zorder="7" filename="shape457600406" left="20" top="143" width="822" height="60" bgcolor="#339966" fillstyle="0" previewfile="" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" exportfilename="images/shape46813694.gif"/><Component id="text2" zorder="8" type="2" left="56" top="160" width="762" height="44" text="" html="" exporthtml="" rvf="" filename="text457600421" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoABAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVl
+BEp1bXAJC05leHRTdHlsZU5vAggAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcG
+Y2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgcAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA5IDEgMCAwIDAgInVybD1wYWdlOi8vcDQ0MTQyMzAzLGxpbmtz
+dHlsZT1zdHlsZTEiDQpIT01FDQoxMiAxIC0xIDEgMCAwDQogICAgICANCjExIDEgLTEgMSAwIDAN
+CnwNCjEyIDEgLTEgMSAwIDANCiAgIA0KOSAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzM4ODI2NSxs
+aW5rc3R5bGU9c3R5bGUxIg0KU0VSVklDRVMNCjEyIDEgLTEgMSAwIDANCiAgICAgDQoxMSAxIC0x
+IDEgMCAwDQp8DQoxMiAxIC0xIDEgMCAwDQogICAgICANCjkgMSAtMSAxIDAgInVybD1wYWdlOi8v
+cDMzOTA3OTYsbGlua3N0eWxlPXN0eWxlMSINCkFCT1VUIFVTDQoxMiAxIC0xIDEgMCAwDQogICAg
+IA0KMTEgMSAtMSAxIDAgMA0KfA0KMTIgMSAtMSAxIDAgMA0KICANCjExIDEgLTEgMSAwIDANCiAg
+ICANCjEwIDEgLTEgMSAwICJ1cmw9cGFnZTovL3AzMzkzNTkzLGxpbmtzdHlsZT1zdHlsZTEiDQpD
+T05UQUNUIFVTDQo3IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="2" id="text4" zorder="9" filename="text457600437" left="20" top="59" width="836" height="87" html="" rvf="" exporthtml="" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:48px;"&gt;&lt;B&gt;Rajamruth &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" style="font-size:48px;"&gt;&lt;B&gt;YOG OLYMPAID&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws36"&gt;&lt;B&gt;Rajamruth &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" class="ws36"&gt;&lt;B&gt;YOG OLYMPAID&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQprAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIkBVN0eWxlCwZmc0JvbGQABUNvbG9yBDOZZgAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIkBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBDOZZgAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHls
+ZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50
+ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0KUmFqYW1ydXRoIA0KOCAxIC0xIDEgMCAwDQpZT0cg
+T0xZTVBBSUQNCg==
+</rvf></Component><Component type="3" id="image1" zorder="10" filename="image1570761109" width="302" height="404" originwidth="1196" originheight="1600" src="C:\Users\smart\OneDrive\Documents\Web Page Maker\Import\paste1.jpg" previewfile="C:\Users\smart\OneDrive\Documents\Web Page Maker\Import\paste1.jpg" left="234" top="687"/></body></page>
+	<page id="p3393593" name="contactus" pageindex="3" pp="0" cp="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgoutput="" bgsoutput=""><Component type="9" id="hr1" zorder="0" filename="hr3393828" hrsize="5" width="820" height="20" left="19" top="197" hrcolor="#B0B0B0" noshade="" usimage="0" src="" previewfile="" group="0" groupname=""/><Component type="4" id="shape2" zorder="1" filename="shape9986281" left="19" top="228" width="819" height="1189" bgcolor="#FFFFFF" fillstyle="0" bordercolor="#DCDCDC" borderstyle="1" borderwidth="1" spborder="1" group="0" groupname="" previewfile="" exportfilename="images/shape9986281.gif" fp="0"/><Component type="9" id="hr2" zorder="2" filename="hr9986296" hrsize="5" width="823" height="20" left="18" top="1094" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component type="9" id="hr3" zorder="3" filename="hr9986312" hrsize="5" width="822" height="20" left="18" top="1433" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component type="3" id="image3" zorder="5" filename="image10316343" left="640" top="320" width="145" height="248" originwidth="172" originheight="295" src="C:\Users\smart\Desktop\Raj Amruth Website\images\mobile.jpg" previewfile="C:\Users\smart\Desktop\Raj Amruth Website\images\mobile.jpg" thumbname="thumb169815296" resamplename="img169815296" exportfilename="images/mobile.jpg" fp="0" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" alt="" ratio="1"/><Component id="text6" zorder="6" type="2" left="40" top="619" width="739" height="62" text="" filename="text10388343" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#993366" face="Tahoma" style="font-size:29px;"&gt;&lt;B&gt;Scan The QR Code To Contect Us On Whatsapp&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#993366" face="Tahoma" class="ws22"&gt;&lt;B&gt;Scan The QR Code To Contect Us On Whatsapp&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" class="ws18"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo/BAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCBgVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXpl
+AggFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVDb2xvcgcGY2xH
+cmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRT
+aXplAhIFU3R5bGULBmZzQm9sZAAFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAhIFU3R5bGULBmZzQm9sZAAFQ29s
+b3IE/5kAAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhv
+bWEEU2l6ZQIWBVN0eWxlCwZmc0JvbGQABUNvbG9yBJkzZgAAAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxNCAxIDAgMCAwIDANClNjYW4gVGhlIFFSIENvZGUg
+VG8gQ29udGVjdCBVcyBPbiBXaGF0c2FwcA0KMTIgMSAwIDAgMCAwDQouLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLg0KMTMgMSAwIDAgMCAwDQoNCjExIDEgMCAw
+IDAgMA0KDQo4IDEgMCAwIDAgMA0KDQo3IDIgMCAwIDAgMA0KDQoNCjkgMSAwIDAgMCAwDQoNCjEw
+IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="9" id="hr4" zorder="7" filename="hr10475484" hrsize="5" width="823" height="20" left="20" top="580" hrcolor="#FF9900" noshade="" usimage="0" src="" previewfile=""/><Component id="text3" zorder="8" type="2" left="24" top="1111" width="811" height="302" text="" filename="text10553562" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;About the Written Olympiad:&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;Students will receive a book containing 150 questions with answers one month before the exam, as per school policy, to help them prepare effectively.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;The exam will consist of 50 multiple-choice questions (MCQs) selected from the given 150.The exam will be conducted on an OMR sheet, providing students with valuable experience in filling OMR sheets, which will be beneficial for future competitive exams.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;About the Written Olympiad:&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;Students will receive a book containing 150 questions with answers one month before the exam, as per school policy, to help them prepare effectively.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;The exam will consist of 50 multiple-choice questions (MCQs) selected from the given 150.The exam will be conducted on an OMR sheet, providing students with valuable experience in filling OMR sheets, which will be beneficial for future competitive exams.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp5AwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCCAVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1h
+bCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgYFQ29sb3IE/5kAAAABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBUNv
+bG9yBDOZZgAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFw
+aCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQH
+CXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAx
+MiAxIDAgMCAwIDANCkFib3V0IHRoZSBXcml0dGVuIE9seW1waWFkOiAgDQoxMCA1IDAgMCAwIDAN
+Cg0KU3R1ZGVudHMgd2lsbCByZWNlaXZlIGEgYm9vayBjb250YWluaW5nIDE1MCBxdWVzdGlvbnMg
+d2l0aCBhbnN3ZXJzIG9uZSBtb250aCBiZWZvcmUgdGhlIGV4YW0sIGFzIHBlciBzY2hvb2wgcG9s
+aWN5LCB0byBoZWxwIHRoZW0gcHJlcGFyZSBlZmZlY3RpdmVseS4NCg0KVGhlIGV4YW0gd2lsbCBj
+b25zaXN0IG9mIDUwIG11bHRpcGxlLWNob2ljZSBxdWVzdGlvbnMgKE1DUXMpIHNlbGVjdGVkIGZy
+b20gdGhlIGdpdmVuIDE1MC5UaGUgZXhhbSB3aWxsIGJlIGNvbmR1Y3RlZCBvbiBhbiBPTVIgc2hl
+ZXQsIHByb3ZpZGluZyBzdHVkZW50cyB3aXRoIHZhbHVhYmxlIGV4cGVyaWVuY2UgaW4gZmlsbGlu
+ZyBPTVIgc2hlZXRzLCB3aGljaCB3aWxsIGJlIGJlbmVmaWNpYWwgZm9yIGZ1dHVyZSBjb21wZXRp
+dGl2ZSBleGFtcy4NCg0KMTEgMSAwIDAgMCAwDQoNCjcgMiAwIDAgMCAwDQoNCg0KOCAxIDAgMCAw
+IDANCg0KOSAxIDAgMCAwIDANCg0K
+</rvf></Component><Component id="text4" zorder="4" type="2" left="60" top="260" width="739" height="318" text="" filename="text9986343" group="0" groupname="" html="" exporthtml="" rvf="" dlcount="0" editorbgcolor="536870911" lock="0" newhtml="1" htmlcode="" newexhtml="1" imgcount="0" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;CONTACT US&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" style="font-size:24px;"&gt;&lt;B&gt;RAJAMRUTH&lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; Yog Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Author's name&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003300" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; PRIYANKA BIRADAR&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Phone No&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003300" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; 9130841847&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;WhatsApp&lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003366" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;8799862289&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Contact&lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;Between &lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003300" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;9:00 am to 8:00 pm&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;CONTACT US&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" class="ws18"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" class="ws18"&gt;&lt;B&gt;RAJAMRUTH&lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt; Yog Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma" class="ws18"&gt;&lt;B&gt;........................................................................................................&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Author's name&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003300" face="Tahoma" class="ws18"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt; PRIYANKA BIRADAR&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Phone No&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003300" face="Tahoma" class="ws18"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt; 9130841847&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;WhatsApp&lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003366" face="Tahoma" class="ws18"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;8799862289&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Contact&lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;Between &lt;/B&gt;&lt;/font&gt;&lt;font color="#800080" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#003300" face="Tahoma" class="ws18"&gt;&lt;B&gt;-&lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#339966" face="Tahoma" class="ws18"&gt;&lt;B&gt;9:00 am to 8:00 pm&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FF9900" face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Verdana" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqBQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9yBwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCBgVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXpl
+AggFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgQzzMwAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAhIFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhj
+bFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhv
+bWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcIY2xQdXJwbGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYG
+VGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtOb3Jt
+YWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAhIFU3R5bGULBmZzQm9sZAAF
+Q29sb3IDADMAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFo
+b21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgQAM2YAAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgQzmWYAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGgg
+U3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50Bwly
+dmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMTQg
+MSAwIDAgMCAwDQpDT05UQUNUIFVTDQoxMSAxIC0xIDEgMCAwDQogDQoxNSAxIC0xIDEgMCAwDQot
+DQoxMSAxIC0xIDEgMCAwDQogDQoxOSAxIC0xIDEgMCAwDQpSQUpBTVJVVEgNCjE2IDEgLTEgMSAw
+IDANCiBZb2cgT2x5bXBhaWQNCjEzIDEgMCAwIDAgMA0KLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4NCjE0IDIgMCAwIDAgMA0KDQpBdXRob3IncyBuYW1lICAg
+ICANCjE3IDEgLTEgMSAwIDANCi0NCjE0IDEgLTEgMSAwIDANCiANCjE2IDEgLTEgMSAwIDANCiBQ
+UklZQU5LQSBCSVJBREFSDQoxNCAyIDAgMCAwIDANCg0KUGhvbmUgTm8gICAgICAgICAgICAgDQox
+NyAxIC0xIDEgMCAwDQotDQoxNCAxIC0xIDEgMCAwDQogDQoxNiAxIC0xIDEgMCAwDQogOTEzMDg0
+MTg0Nw0KMTQgMiAwIDAgMCAwDQoNCldoYXRzQXBwDQoxNSAxIC0xIDEgMCAwDQogDQoxNCAxIC0x
+IDEgMCAwDQogICAgICAgICAgIA0KMTggMSAtMSAxIDAgMA0KLQ0KMTQgMSAtMSAxIDAgMA0KICAN
+CjE2IDEgLTEgMSAwIDANCjg3OTk4NjIyODkNCjE0IDIgMCAwIDAgMA0KDQpDb250YWN0DQoxNSAx
+IC0xIDEgMCAwDQogDQoxNCAxIC0xIDEgMCAwDQpCZXR3ZWVuIA0KMTUgMSAtMSAxIDAgMA0KICAg
+DQoxNyAxIC0xIDEgMCAwDQotDQoxNCAxIC0xIDEgMCAwDQogDQoxNiAxIC0xIDEgMCAwDQo5OjAw
+IGFtIHRvIDg6MDAgcG0NCjE0IDEgMCAwIDAgMA0KDQoxMiAxIDAgMCAwIDANCg0KOCAxIDAgMCAw
+IDANCg0KNyAyIDAgMCAwIDANCg0KDQo5IDEgMCAwIDAgMA0KDQoxMCAxIDAgMCAwIDANCg0K
+</rvf></Component><Component id="text8" zorder="9" type="2" left="56" top="160" width="762" height="44" text="" html="" exporthtml="" rvf="" filename="text458158921" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoABAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVl
+BEp1bXAJC05leHRTdHlsZU5vAggAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcG
+Y2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgcAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA5IDEgMCAwIDAgInVybD1wYWdlOi8vcDQ0MTQyMzAzLGxpbmtz
+dHlsZT1zdHlsZTEiDQpIT01FDQoxMiAxIC0xIDEgMCAwDQogICAgICANCjExIDEgLTEgMSAwIDAN
+CnwNCjEyIDEgLTEgMSAwIDANCiAgIA0KOSAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzM4ODI2NSxs
+aW5rc3R5bGU9c3R5bGUxIg0KU0VSVklDRVMNCjEyIDEgLTEgMSAwIDANCiAgICAgDQoxMSAxIC0x
+IDEgMCAwDQp8DQoxMiAxIC0xIDEgMCAwDQogICAgICANCjkgMSAtMSAxIDAgInVybD1wYWdlOi8v
+cDMzOTA3OTYsbGlua3N0eWxlPXN0eWxlMSINCkFCT1VUIFVTDQoxMiAxIC0xIDEgMCAwDQogICAg
+IA0KMTEgMSAtMSAxIDAgMA0KfA0KMTIgMSAtMSAxIDAgMA0KICANCjExIDEgLTEgMSAwIDANCiAg
+ICANCjEwIDEgLTEgMSAwICJ1cmw9cGFnZTovL3AzMzkzNTkzLGxpbmtzdHlsZT1zdHlsZTEiDQpD
+T05UQUNUIFVTDQo3IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="4" id="shape1" zorder="10" filename="shape458170328" left="19" top="140" width="822" height="60" bgcolor="#339966" fillstyle="0" previewfile="" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" exportfilename="images/shape46813694.gif"/><Component id="text2" zorder="11" type="2" left="53" top="155" width="762" height="44" text="" html="" exporthtml="" rvf="" filename="text458170312" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p44142303" title="" class="style1"&gt;HOME&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3388265" title="" class="style1"&gt;SERVICES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3390796" title="" class="style1"&gt;ABOUT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;|&lt;/B&gt;&lt;/font&gt;&lt;font color="#333333" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;B&gt;&lt;a href="page://p3393593" title="" class="style1"&gt;CONTACT US&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoABAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVl
+BEp1bXAJC05leHRTdHlsZU5vAggAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgcG
+Y2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgcAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA5IDEgMCAwIDAgInVybD1wYWdlOi8vcDQ0MTQyMzAzLGxpbmtz
+dHlsZT1zdHlsZTEiDQpIT01FDQoxMiAxIC0xIDEgMCAwDQogICAgICANCjExIDEgLTEgMSAwIDAN
+CnwNCjEyIDEgLTEgMSAwIDANCiAgIA0KOSAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzM4ODI2NSxs
+aW5rc3R5bGU9c3R5bGUxIg0KU0VSVklDRVMNCjEyIDEgLTEgMSAwIDANCiAgICAgDQoxMSAxIC0x
+IDEgMCAwDQp8DQoxMiAxIC0xIDEgMCAwDQogICAgICANCjkgMSAtMSAxIDAgInVybD1wYWdlOi8v
+cDMzOTA3OTYsbGlua3N0eWxlPXN0eWxlMSINCkFCT1VUIFVTDQoxMiAxIC0xIDEgMCAwDQogICAg
+IA0KMTEgMSAtMSAxIDAgMA0KfA0KMTIgMSAtMSAxIDAgMA0KICANCjExIDEgLTEgMSAwIDANCiAg
+ICANCjEwIDEgLTEgMSAwICJ1cmw9cGFnZTovL3AzMzkzNTkzLGxpbmtzdHlsZT1zdHlsZTEiDQpD
+T05UQUNUIFVTDQo3IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="2" id="text5" zorder="12" filename="text458170296" left="18" top="59" width="899" height="87" html="" rvf="" exporthtml="" dlcount="0" editorbgcolor="536870911" backup="1" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" imgcount="0" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#339966" style="font-size:48px;"&gt;&lt;B&gt;RAJAMRUTH YOG Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#339966" class="ws36"&gt;&lt;B&gt;RAJAMRUTH YOG Olympaid&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoWAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IEM5lmAAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADcgMSAwIDAgMCAwDQpS
+QUpBTVJVVEggWU9HIE9seW1wYWlkDQo=
+</rvf></Component><Component type="3" id="image1" zorder="13" filename="image1572580671" left="85" top="707" width="327" height="353" originwidth="572" originheight="572" src="C:\Users\smart\Downloads\WhatsApp Image 2025-03-21 at 19.35.50.jpeg" previewfile="C:\Users\smart\Downloads\WhatsApp Image 2025-03-21 at 19.35.50.jpeg"/><Component type="3" id="image2" zorder="14" filename="image1572724921" width="394" height="248" originwidth="671" originheight="356" src="C:\Users\smart\OneDrive\Documents\Web Page Maker\Import\paste4.jpg" previewfile="C:\Users\smart\OneDrive\Documents\Web Page Maker\Import\paste4.jpg" left="401" top="785"/></body></page>
+</site>
